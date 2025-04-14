@@ -1,3 +1,4 @@
+pip install yfinance
 # Importar as bibliotecas
 import streamlit as st
 import pandas as pd
